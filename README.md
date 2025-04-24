@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **GSOC 2024**
 
-- 👨‍💻 All of my projects are available at [https://stack-abhi.netlify.app/](https://stack-abhi.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://d2z60xmjh1ue1t.cloudfront.net](https://d2z60xmjh1ue1t.cloudfront.net)
 
 - 📝 I regularly write articles on [Coming Soon](Coming Soon)
 
